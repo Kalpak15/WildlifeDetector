@@ -1,0 +1,5 @@
+train: C:/Users/Rohan/Desktop/3.01wildlife/Required_Dataset/images/train
+val: C:/Users/Rohan/Desktop/3.01wildlife/Required_Dataset/images/val
+
+nc: 4  # Number of classes
+names: ['elephant', 'jaguar', 'lion', 'tiger']  # Class names in ascending order
