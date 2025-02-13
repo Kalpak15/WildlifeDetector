@@ -1,4 +1,7 @@
 Wildlife Detector 🦁📷
+
+
+
 Overview
 The Wildlife Detector is an AI-powered application that detects wild animals using the YOLOv8 model and provides real-time alerts. It helps organizations monitor wildlife activity and prevent human-wildlife conflicts.
 
